@@ -7,8 +7,8 @@
 .slider {
   appearance: none;
   width: 100px;
-  height: 4px;
-  background: #d3d3d3;
+  height: 5px;
+  background: #2cb92a;
   outline: none;
   border-radius: 9999px;
 }
@@ -19,14 +19,14 @@
 
 .slider::-webkit-slider-thumb {
   appearance: none;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   background: #2cb92a;
   border-radius: 9999px;
 }
 
 .slider::-moz-range-thumb {
-  width: 4px;
+  width: 10px;
   height: 4px;
   background: #2cb92a;
   border-radius: 9999px;
